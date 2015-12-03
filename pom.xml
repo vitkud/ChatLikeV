@@ -26,6 +26,7 @@
         <artifactId>gwt</artifactId>
         <version>${gwtVersion}</version>
         <scope>import</scope>
+        <type>pom</type>
       </dependency>
     </dependencies>
   </dependencyManagement>
